@@ -60,10 +60,10 @@
 * scapy
 ---
 
-**Clone and Install Script**
+**How to use**
 
 ```console
-git clone 
+git clone https://github.com/AmoAlireza/ddos-jesus.git
 cd ddos-jesus
 pip3 install -r requirements.txt
 ```
@@ -74,5 +74,4 @@ pip3 install -r requirements.txt
 
 ```console
 python3 start.py
-python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100
 ```
