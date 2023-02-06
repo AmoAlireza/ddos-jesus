@@ -70,7 +70,7 @@ pip3 install -r requirements.txt
 
 ---
 
-**Launch Script**
+**Usage**
 
 ```console
 python3 start.py
