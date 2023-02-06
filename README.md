@@ -64,7 +64,7 @@
 
 ```console
 git clone 
-cd DDoS-beast
+cd ddos-jesus
 pip3 install -r requirements.txt
 ```
 
